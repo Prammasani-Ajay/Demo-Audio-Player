@@ -1,0 +1,27 @@
+.audio-player {
+    background-color: blueviolet;
+    height:40rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #ffffff;
+  }
+  
+  .playlist {
+    margin-top: 20px;
+  }
+  
+  .playlist ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .playlist ul li:hover {
+    cursor: pointer;
+    color: #bbbbbb;
+  }
+  
+  .now-playing {
+    margin-top: 20px;
+  }
+  
